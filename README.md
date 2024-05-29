@@ -1,4 +1,2 @@
-# Predictive Analytics
-App for Predictive Analytics using SVD on Google Cloud and deployed using Streamlit.
-
-This app still under development.
+# Graduation Classification
+This app developed using IBM Cloud and deployed using Streamlit at https://graduation-classification.streamlit.app/
